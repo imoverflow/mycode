@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491225847 source:f:\cb-file\topoc\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

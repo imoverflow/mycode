@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492850840 source:f:\cb-file\zju5580\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+	<vector>
+

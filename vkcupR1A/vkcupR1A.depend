@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491452781 source:f:\cb-file\vkcupr1a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

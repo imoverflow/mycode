@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487823009 source:f:\cb-file\treeg\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

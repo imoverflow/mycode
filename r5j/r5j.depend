@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487658053 source:f:\cb-file\r5j\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

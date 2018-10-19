@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1500019114 source:f:\cb-file\creattest\main.cpp
+	<iostream>
+	<time.h>
+	<bits/stdc++.h>
+

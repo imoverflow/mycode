@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489679236 source:f:\cb-file\trainingg\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

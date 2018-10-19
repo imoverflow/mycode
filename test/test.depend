@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525943762 source:f:\cb-file\test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+
+1532268463 source:e:\cb-file\test\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+

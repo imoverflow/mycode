@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490791682 source:f:\cb-file\topoa\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524570325 source:f:\cb-file\gym-101755i\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

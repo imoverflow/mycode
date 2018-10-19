@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1496060318 source:f:\cb-file\zjcojl\main.cpp
+	<iostream>
+	<stdio.h>
+	<map>
+	<string>
+	<string.h>
+	<set>
+	<math.h>
+	<algorithm>
+

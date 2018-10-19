@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488090478 source:f:\cb-file\rank1f\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

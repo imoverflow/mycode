@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1501049542 source:f:\cb-file\gambling\h\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

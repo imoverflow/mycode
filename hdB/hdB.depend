@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1482569129 source:f:\cb-file\hdb\main.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<stdlib.h>
+

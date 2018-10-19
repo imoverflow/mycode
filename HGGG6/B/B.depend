@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507442251 source:f:\cb-file\hggg6\b\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

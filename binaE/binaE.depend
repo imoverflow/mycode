@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488356418 source:f:\cb-file\binae\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

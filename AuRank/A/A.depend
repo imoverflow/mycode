@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512201072 source:f:\cb-file\aurank\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

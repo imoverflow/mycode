@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489210480 source:f:\cb-file\hduxd\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

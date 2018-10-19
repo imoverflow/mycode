@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490715718 source:f:\cb-file\training2b\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

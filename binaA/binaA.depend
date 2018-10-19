@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488265957 source:f:\cb-file\binaa\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<map>
+	<set>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517561120 source:f:\cb-file\state_compression\poj2411\main.cpp
+	<stdio.h>
+	<cstring>
+	<iostream>
+

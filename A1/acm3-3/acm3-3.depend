@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477983052 source:f:\cb-file\acm3-3\main.cpp
+	<iostream>
+	<stdio.h>
+

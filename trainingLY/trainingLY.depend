@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489666201 source:f:\cb-file\trainingly\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+

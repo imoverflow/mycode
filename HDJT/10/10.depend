@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510982272 source:f:\cb-file\hdjt\10\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

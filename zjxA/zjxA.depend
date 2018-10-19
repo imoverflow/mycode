@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489814227 source:f:\cb-file\zjxa\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<algorithm>
+

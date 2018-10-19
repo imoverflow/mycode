@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475159138 source:f:\cb-file\balloon\main.c
+	<stdio.h>
+	<stdlib.h>
+

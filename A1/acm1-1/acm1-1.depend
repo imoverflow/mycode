@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479027394 source:f:\cb-file\acm1-1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<stdlib.h>
+	<math.h>
+

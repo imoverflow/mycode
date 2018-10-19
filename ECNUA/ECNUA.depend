@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494585475 source:f:\cb-file\ecnua\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<set>
+	<vector>
+	<algorithm>
+

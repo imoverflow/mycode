@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1482060506 source:f:\cb-file\hna\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<queue>
+	<stack>
+	<utility>
+

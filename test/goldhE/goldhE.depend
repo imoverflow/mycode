@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496467038 source:f:\cb-file\test\goldhe\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

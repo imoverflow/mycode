@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521965108 source:f:\cb-file\tiantimoni\l2-1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

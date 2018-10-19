@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532595371 source:e:\cb-file\nowcodermul3\c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+

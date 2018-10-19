@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521955679 source:f:\cb-file\hr2018\i\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+	<set>
+	<regex>
+

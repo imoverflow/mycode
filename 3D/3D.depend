@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484756280 source:f:\cb-file\3d\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

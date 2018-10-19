@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488006076 source:f:\cb-file\hdu2199\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1494662489 source:f:\cb-file\poj1698\main.cpp
+	<iostream>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<algorithm>
+

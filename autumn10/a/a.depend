@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509016488 source:f:\cb-file\autumn10\a\main.cpp
+	<iostream>
+	<stack>
+	<stdio.h>
+

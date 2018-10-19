@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495467948 source:f:\cb-file\cf415c\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+	<stdlib.h>
+

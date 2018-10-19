@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509026491 source:f:\cb-file\autumn10\f\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<algorithm>
+

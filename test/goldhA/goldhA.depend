@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496462798 source:f:\cb-file\test\goldha\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489912234 source:f:\cb-file\zstua\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<set>
+

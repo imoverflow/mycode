@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508516343 source:f:\cb-file\autumn8\1\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

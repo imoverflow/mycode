@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481120798 source:f:\cb-file\hs1008\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+

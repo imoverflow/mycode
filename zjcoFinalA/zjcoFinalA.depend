@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496312569 source:f:\cb-file\zjcofinala\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1495104810 source:f:\cb-file\Ìב¸‗Èü\angrybirds\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<algorithm>
+	<string.h>
+

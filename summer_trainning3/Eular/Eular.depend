@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500451250 source:f:\cb-file\summer_trainning3\eular\main.cpp
+	<iostream>
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487226213 source:f:\cb-file\gza\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+

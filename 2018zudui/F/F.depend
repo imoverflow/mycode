@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522332822 source:f:\cb-file\2018zudui\f\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

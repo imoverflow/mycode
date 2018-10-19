@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520054601 source:f:\cb-file\han5\b\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520858889 source:f:\cb-file\2018gdutspring2\i\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

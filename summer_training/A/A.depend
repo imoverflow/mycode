@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1499928083 source:f:\cb-file\summer_training\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

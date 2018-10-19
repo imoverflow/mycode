@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508167138 source:f:\cb-file\autumn7\a\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<cmath>
+	<stack>
+	<queue>
+	<vector>
+

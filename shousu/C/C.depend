@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520257851 source:f:\cb-file\shousu\c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

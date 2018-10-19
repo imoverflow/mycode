@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501572748 source:f:\cb-file\mutil\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

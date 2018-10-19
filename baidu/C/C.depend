@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502524625 source:f:\cb-file\baidu\c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

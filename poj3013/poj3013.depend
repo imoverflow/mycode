@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492794015 source:f:\cb-file\poj3013\main.cpp
+	<iostream>
+	<queue>
+	<string.h>
+	<stdio.h>
+

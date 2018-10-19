@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475814093 source:f:\cb-file\ts\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,32 @@
+3
+Codeforces Gamma Round 512
+29.02.16
+5 6
+A Accepted
+B Accepted
+C Accepted
+D Wrong Answer
+D Accepted
+E Accepted
+URKOP
+17.10.15
+12 11
+A Accepted
+B Wrong Answer
+B Time Limit Exceeded
+J Accepted
+B Accepted
+J Time Limit Exceeded
+J Accepted
+F Accepted
+E Runtime Error
+B Wrong Answer
+E Runtime Error
+Codeforces Gamma Round 513
+17.10.18
+13 5
+A Accepted
+B Wrong Answer
+B Time Limit Exceeded
+B Accepted
+J Memory Limit Exceeded

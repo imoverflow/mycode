@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493913085 source:f:\cb-file\gdutrank3\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<vector>
+	<queue>
+	<cmath>
+	<ctime>
+

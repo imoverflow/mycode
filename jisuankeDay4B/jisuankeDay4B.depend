@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495971663 source:f:\cb-file\jisuankeday4b\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

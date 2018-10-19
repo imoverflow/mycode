@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494505214 source:f:\cb-file\gdutrank4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

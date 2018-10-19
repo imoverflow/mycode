@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519470266 source:f:\cb-file\cf466\c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

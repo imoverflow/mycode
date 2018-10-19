@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506007696 source:f:\cb-file\aututrainning3\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

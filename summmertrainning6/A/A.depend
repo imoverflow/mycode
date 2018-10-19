@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502068176 source:f:\cb-file\summmertrainning6\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

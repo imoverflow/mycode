@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509262798 source:f:\cb-file\caniak\c\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

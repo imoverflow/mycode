@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532247777 source:e:\cb-file\scan-line\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

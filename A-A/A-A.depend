@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484125597 source:f:\cb-file\a-a\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<algorithm>
+	<math.h>
+

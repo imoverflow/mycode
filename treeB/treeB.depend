@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489243393 source:f:\cb-file\treeb\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+

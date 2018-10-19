@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1484110533 source:f:\cb-file\dfs\main.cpp
+	<iostream>
+	<stdio.h>
+	<queue>
+	<algorithm>
+

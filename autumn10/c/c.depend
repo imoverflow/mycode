@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1509021798 source:f:\cb-file\autumn10\c\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<cstring>
+	<math.h>
+

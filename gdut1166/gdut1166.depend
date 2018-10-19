@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489406528 source:f:\cb-file\gdut1166\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

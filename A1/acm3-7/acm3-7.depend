@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478430404 source:f:\cb-file\acm3-7\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+

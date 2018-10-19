@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1497151205 source:f:\cb-file\test\turingd\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

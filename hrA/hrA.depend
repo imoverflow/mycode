@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491108890 source:f:\cb-file\hra\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

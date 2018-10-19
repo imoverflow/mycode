@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1485005757 source:f:\cb-file\graph\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<winuser.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489671662 source:f:\cb-file\trainingj\main.cpp
+	<iostream>
+	<stdio.h>
+

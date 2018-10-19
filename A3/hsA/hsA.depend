@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481111714 source:f:\cb-file\hsa\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<string.h>
+

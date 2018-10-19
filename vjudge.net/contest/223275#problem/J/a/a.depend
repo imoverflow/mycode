@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1525166897 source:f:\cb-file\vjudge.net\contest\223275#problem\j\a\main.cpp
+	<iostream>
+	<map>
+	<cstring>
+	<set>
+	<stdio.h>
+	<algorithm>
+

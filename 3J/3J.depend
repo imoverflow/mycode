@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484801703 source:f:\cb-file\3j\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

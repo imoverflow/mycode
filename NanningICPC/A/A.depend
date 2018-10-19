@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506232676 source:f:\cb-file\nanningicpc\a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

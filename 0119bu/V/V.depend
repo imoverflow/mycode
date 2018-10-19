@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517720458 source:f:\cb-file\state_compression\v\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

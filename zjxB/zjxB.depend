@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489824991 source:f:\cb-file\zjxb\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

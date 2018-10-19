@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502773614 source:f:\cb-file\multi7\b\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

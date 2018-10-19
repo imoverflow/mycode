@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1496062947 source:f:\cb-file\zjcoji\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521944348 source:f:\cb-file\hr2018\d\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

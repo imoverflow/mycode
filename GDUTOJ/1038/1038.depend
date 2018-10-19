@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510238115 source:f:\cb-file\gdutoj\1038\main.cpp
+	<iostream>
+	<stdio.h>
+	<set>
+	<cstring>
+	<algorithm>
+	<map>
+
